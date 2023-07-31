@@ -1,3 +1,4 @@
+
 ### Hi there! I'm Seongmin👋
 I'm a non-major, but I've been learning the frontend with interest. 
 nice to meet you!🤗
